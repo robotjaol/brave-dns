@@ -8,7 +8,7 @@ Cari:
 Use secure DNS
 ```
 Aktifkan.
-```
+
 Pilih:
 ```
 Cloudflare (1.1.1.1)
